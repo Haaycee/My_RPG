@@ -1,0 +1,5 @@
+python3 generator_colissions.py map_.json 46 > map_col.txt
+#python3 generator.py map_rpg.json > map.txt
+#python3 generator.py tilemap_test.json > map.txt
+mv map_col.txt map.txt ../src/assets/maps/
+echo "\033[0;32mMap generated\033[0m"
