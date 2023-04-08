@@ -32,4 +32,3 @@ This game was created by:
 [[Sacha Dessaint]](https://github.com/Sorio51)
 
 [[Thibault Bernuz]](https://github.com/Haaycee)
-
