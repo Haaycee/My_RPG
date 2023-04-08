@@ -25,7 +25,11 @@ Esc key: Quit the game
 
 ## 🙏 Credits
 This game was created by:
-[Hadès Cuisinier](https://github.com/Hadesepi)
-[Alexis Arduca](https://github.com/Alexis-Arduca)
-[Sacha Dessaint](https://github.com/Sorio51)
+[[Hadès Cuisinier]](https://github.com/Hadesepi)
+
+[[Alexis Arduca]](https://github.com/Alexis-Arduca)
+
+[[Sacha Dessaint]](https://github.com/Sorio51)
+
+[[Thibault Bernuz]](https://github.com/Haaycee)
 
