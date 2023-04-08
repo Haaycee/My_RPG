@@ -25,6 +25,7 @@ Esc key: Quit the game
 
 ## 🙏 Credits
 This game was created by:
+
 [[Hadès Cuisinier]](https://github.com/Hadesepi)
 
 [[Alexis Arduca]](https://github.com/Alexis-Arduca)
